@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>TestLivraison__c</fullName>
-    <defaultValue>false</defaultValue>
+    <fullName>Date__c</fullName>
     <externalId>false</externalId>
-    <label>TestLivraison</label>
+    <label>Date</label>
+    <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
-    <trackTrending>false</trackTrending>
-    <type>Checkbox</type>
+    <type>Date</type>
 </CustomField>
